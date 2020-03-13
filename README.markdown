@@ -1,4 +1,4 @@
-# WebGL Game Endless Runner
+# JF_17_thunder_game
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/Fischaela/pen/QwBLvG](https://codepen.io/Fischaela/pen/QwBLvG).
 
  Fun project for testing endless runner landscapes. Use the arrow keys to avoid the evil boxes.
